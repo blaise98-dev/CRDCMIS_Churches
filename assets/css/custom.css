@@ -1,0 +1,17 @@
+img.logo{
+	transform: scale(2);
+	padding-left: 30px;	
+}
+#iq-home {
+    height: 90vh;
+    overflow-y: hidden;
+}
+.partner-head-logo {
+    position: relative;
+    bottom: 0;
+}
+.partner-img img{
+	max-width: 16vw;
+	/* position: absolute; */
+	/* bottom: 200px; */
+}

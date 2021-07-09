@@ -1,0 +1,1 @@
+<b>Register successfully!! you will attend First(1) mass</b>
